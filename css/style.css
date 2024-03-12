@@ -599,3 +599,10 @@ footer {
 
     }
 }
+
+.footerD {
+    color: var(--color-white);
+    text-align: center;
+    font-size: large;
+    margin: 40px;
+  }
